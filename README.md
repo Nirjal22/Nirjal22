@@ -7,10 +7,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/https://x.com/nirjal_bista0?t=qscyvmcbjmaa-xzjnzfwfa&s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/nirjal_bista0?t=qscyvmcbjmaa-xzjnzfwfa&s=09" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/nirjal-bista-408670267/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nirjal-bista-408670267/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/bistanirjal978" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/bistanirjal978" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/nirjal22/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/nirjal22/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
